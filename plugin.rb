@@ -1,4 +1,8 @@
-# name: css-plugin
-# about: A super simple plugin to demonstrate how plugins work
-# version: 0.0.1
-# authors: Awesome Plugin Developer
+﻿# name: amnimo-theme
+# about: CSS theme
+# version: 0.1
+# authors: Muthukkumar
+# url: https://github.com/MuthukkumarNicheSoft/discourse-theme-amnimo.git
+
+register_asset 'stylesheets/common.scss'
+
