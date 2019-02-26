@@ -8,3 +8,11 @@ plugins:
   Themes_enabled:
     default: true
     client: true
+required:
+  logo:
+    default: "/plugins/discourse-theme-sample/images/discourse.png"
+    client: true
+    type: upload
+  logo_url:
+    hidden: true
+    default: "/plugins/discourse-theme-sample/images/discourse.png"
